@@ -150,7 +150,7 @@
   description: An alien fire alarm. Works just the same!
   components:
   - type: Sprite
-    sprite: Structures/Wallmounts/air_monitors_xeno.rsi
+    sprite: _Sunrise/Structures/Wallmounts/air_monitors_xeno.rsi
     layers:
     - state: fire0
       map: ["fireAlarmBase"]
@@ -167,7 +167,7 @@
   description: An alien fire alarm assembly. Good luck with the wires.
   components:
   - type: Sprite
-    sprite: Structures/Wallmounts/air_monitors_xeno.rsi
+    sprite: _Sunrise/Structures/Wallmounts/air_monitors_xeno.rsi
     layers:
     - state: fire_b1
       map: [ "enum.ConstructionVisuals.Layer" ]
